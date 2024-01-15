@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple implementation of the Simple Linear Regression algorithm in Python. Simple Linear Regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables. In this case, it focuses on predicting the value of one variable based on the value of another variable.
+This repository contains a simple implementation of the Simple Linear Regression algorithm in Python. Simple Linear Regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables. In this case, it focuses on predicting the value of one variable based on the value of another variable. 
 
 
 ## Introduction
